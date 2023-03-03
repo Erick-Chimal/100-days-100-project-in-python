@@ -27,8 +27,9 @@ What is Thonny? <br/>
 Thonny is a Python programming environment designed to be beginner-friendly. It comes with Python 3.10 built-in and has a stripped-down user interface. It has features like a debugger, syntax error highlighting, code completion, and a system shell. It also has a GUI for pip package installation.</b>
 <br />
 <br />
-<img src="https://rpi-magazines.s3-eu-west-1.amazonaws.com/magpi/legacy-assets/2017/06/step5_thonny.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <!--
+<img src="https://rpi-magazines.s3-eu-west-1.amazonaws.com/magpi/legacy-assets/2017/06/step5_thonny.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <br />
 <br />
 Select the disk:  <br/>
