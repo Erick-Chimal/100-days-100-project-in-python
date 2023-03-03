@@ -3,7 +3,7 @@
 <!-- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo) -->
 
 <h2>Description</h2>
-For the next 100 days, I will be embarking on an ambitious project to challenge my problem solving and critical thinking skills. I plan on posting one project a day, starting from the basics and gradually becoming more complex as the days go by. Daily projects are based on scenerio or with a goal set in place meant to develop python fundamentals, and by the end of the 100 days, I hope to have developed a comprehensive understanding of the language and its associated skills. This project is an exciting challenge which I am looking forward to, and I am confident that I can use it to acquire an extensive knowledge of Python.
+For the next 100 days, I will be embarking on an ambitious project to challenge my problem solving and critical thinking skills. I plan on posting one project a day, starting from the basics and gradually becoming more complex as the days go by. Daily projects are based on scenerios or goals to develop python fundamentals, and by the end of the 100 days, I hope to have developed a comprehensive understanding of the language and its associated skills. This project is an exciting challenge which I am looking forward to, and I am confident that I can use it to acquire an extensive knowledge of Python.
 <br />
 
 
